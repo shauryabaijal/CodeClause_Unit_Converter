@@ -11,3 +11,4 @@ This is a simple unit converter web application built with HTML, CSS, and JavaSc
 2.Enter the value you want to convert in the input field. <br>
 3.Select the unit you want to convert to from the second dropdown menu. <br>
 4.The converted value will be displayed on the screen.
+![Screenshot (4)](https://github.com/shauryabaijal/CodeClause_Unit_Converter/assets/103757677/c9f025ba-5b03-4b12-80dd-47de259cce30)
